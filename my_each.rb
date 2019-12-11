@@ -6,6 +6,6 @@ yield(array[x])
 x=+1
 end
 when array.length=0
-  puts
+  puts "oh no"
 array
 end
